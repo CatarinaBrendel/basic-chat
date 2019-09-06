@@ -1,0 +1,3 @@
+#Git will ignore the following files
+
+node_modules
